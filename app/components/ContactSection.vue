@@ -48,7 +48,6 @@
             <div class="text-sm text-secondary grid grid-cols-2 gap-x-4">
               <div>Segunda a Sexta</div><div>08:00 - 18:00</div>
               <div>Sábado</div><div>08:00 - 17:00</div>
-              <div>Domingo</div><div>09:00 - 15:00</div>
             </div>
           </div>
           <!-- Botão WhatsApp -->

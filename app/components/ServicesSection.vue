@@ -1,8 +1,8 @@
 <template>
-  <section class="w-full py-16 bg-background">
+  <section class="w-full py-16 bg-gradient-to-br from-secondary via-primary to-accent">
     <div class="container mx-auto px-6 md:px-12">
       <h2 class="text-4xl md:text-5xl font-extrabold mb-16 text-center">
-        <span class="text-primary">Nossos</span>
+        <span class="text-white">Nossos</span>
         <span style="color: #c9a94b"> Serviços</span>
       </h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center">
