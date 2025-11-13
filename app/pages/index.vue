@@ -3,7 +3,7 @@
     <Hero />
     <AboutUs />
     <ServicesSection />
-    <!-- Outras seções futuras aqui -->
+    <ContactSection />
   </div>
 </template>
 
@@ -11,4 +11,5 @@
 import AboutUs from '../components/AboutUs.vue';
 import Hero from '../components/Hero.vue';
 import ServicesSection from '../components/ServicesSection.vue';
+import ContactSection from '../components/ContactSection.vue';
 </script>
