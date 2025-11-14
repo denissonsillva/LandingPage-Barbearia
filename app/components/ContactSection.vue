@@ -5,7 +5,7 @@
         <span class="text-primary">Informações de</span>
         <span style="color: #c9a94b"> Contato</span>
       </h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-16 items-start">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-24 items-stretch min-h-[70vh]">
         <!-- Coluna Esquerda: Informações de contato -->
         <div class="space-y-8">
           <div class="space-y-6">

@@ -26,7 +26,7 @@
         </p>
         <div class="flex gap-12 mb-8 w-full justify-center md:justify-start">
           <div class="flex flex-col items-center">
-            <span class="text-3xl md:text-4xl font-extrabold text-accent">+15</span>
+            <span class="text-3xl md:text-4xl font-extrabold text-accent">+20</span>
             <span class="text-sm text-text">Anos de dedicação</span>
           </div>
           <div class="flex flex-col items-center">
