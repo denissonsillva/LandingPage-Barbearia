@@ -14,7 +14,7 @@
     >
       <h4 class="text-xl md:text-2xl font-extrabold text-primary mb-1 text-center">{{ name }}</h4>
       <p v-if="description" class="text-sm md:text-base text-muted mb-2 text-center font-normal">
-          <span class="line-clamp-2">{{ description }}</span>
+        <span class="line-clamp-2">{{ description }}</span>
       </p>
       <p class="text-accent text-lg md:text-xl font-bold mt-1 text-center">{{ price }}</p>
     </div>
